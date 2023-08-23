@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeafieGuy
+- 👋 Hi, I’m Donald Durgan
 - 👀 I’m interested in playing video games and traveling for food
 - 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on ...
